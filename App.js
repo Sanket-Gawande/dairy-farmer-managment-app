@@ -21,7 +21,7 @@ export default function App() {
     <Provider store={store}>
       <View>
         <Login />
-        <StatusBar style="dark" />
+        <StatusBar style="auto" />
       </View>
     </Provider>
   );

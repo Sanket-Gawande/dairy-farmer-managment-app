@@ -1,6 +1,6 @@
 {
   "name": "dairy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@expo-google-fonts/padauk": "^0.2.2",
+    "@react-navigation/native": "^6.0.10",
     "@reduxjs/toolkit": "^1.8.1",
     "eas-cli": "^0.52.0",
     "expo": "~44.0.0",
@@ -20,6 +21,8 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
     "react-native-web": "0.17.1",
     "react-redux": "^8.0.1",
     "styled-components": "^5.3.5",
